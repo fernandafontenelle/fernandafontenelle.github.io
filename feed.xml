@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Watermelon</title>
+    <link href="https://fontenelle.nz/feed.xml" rel="self" />
+    <link href="https://fontenelle.nz" />
+    <updated>2019-06-25T19:08:37+12:00</updated>
+    <author>
+        <name>Fernanda Fontenelle</name>
+    </author>
+    <id>https://fontenelle.nz</id>
+
+    <entry>
+        <title>Ant in Portugal</title>
+        <author>
+            <name>Fernanda Fontenelle</name>
+        </author>
+        <link href="https://fontenelle.nz/ant-in-portugal.html"/>
+        <id>https://fontenelle.nz/ant-in-portugal.html</id>
+
+        <updated>2019-06-24T19:01:39+12:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://fontenelle.nz/media/posts/2/982ca82c53ae507293c6a28996a3b9b5.jpg" alt="" />
+                    Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://fontenelle.nz/media/posts/2/982ca82c53ae507293c6a28996a3b9b5.jpg" alt="" />
+                <p>Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.</p>
+<p> </p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://fontenelle.nz/media/posts/2/gallery/982ca82c53ae507293c6a28996a3b9b5.jpg" ><img src="https://fontenelle.nz/media/posts/2/gallery/982ca82c53ae507293c6a28996a3b9b5-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://fontenelle.nz/media/posts/2/gallery/2a51c9370d5975d52b2d7c955e98d8d8.jpg" ><img src="https://fontenelle.nz/media/posts/2/gallery/2a51c9370d5975d52b2d7c955e98d8d8-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://fontenelle.nz/media/posts/2/gallery/7107ea37b8c314ccd09362fd676a43bb.jpg" ><img src="https://fontenelle.nz/media/posts/2/gallery/7107ea37b8c314ccd09362fd676a43bb-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://fontenelle.nz/media/posts/2/gallery/793a14c7fd59ed4e23daac74f762ebc6.jpg" ><img src="https://fontenelle.nz/media/posts/2/gallery/793a14c7fd59ed4e23daac74f762ebc6-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://fontenelle.nz/media/posts/2/gallery/b6eb468997102e07737f86d09ab8a8b6.jpg" ><img src="https://fontenelle.nz/media/posts/2/gallery/b6eb468997102e07737f86d09ab8a8b6-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://fontenelle.nz/media/posts/2/gallery/368edabd05712d39b851228c5060e293.jpg" ><img src="https://fontenelle.nz/media/posts/2/gallery/368edabd05712d39b851228c5060e293-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://fontenelle.nz/media/posts/2/gallery/c8a7ca2a0c0649183c395007ea49b834.jpg" ><img src="https://fontenelle.nz/media/posts/2/gallery/c8a7ca2a0c0649183c395007ea49b834-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://fontenelle.nz/media/posts/2/gallery/9b0356cb71c520e0f68cbaca92eb852a.jpg" ><img src="https://fontenelle.nz/media/posts/2/gallery/9b0356cb71c520e0f68cbaca92eb852a-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+</div>
+<p><br><br>My money's in that office, right? If she start giving me some bullshit about it ain't there, and we got to go someplace else and get it, I'm gonna shoot you in the head then and there. Then I'm gonna shoot that bitch in the kneecaps, find out where my goddamn money is. She gonna tell me too. Hey, look at me when I'm talking to you, motherfucker. You listen: we go in there, and that nigga Winston or anybody else is in there, you the first motherfucker to get shot. You understand?<br><br>Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Open for Business</title>
+        <author>
+            <name>Fernanda Fontenelle</name>
+        </author>
+        <link href="https://fontenelle.nz/open-for-business.html"/>
+        <id>https://fontenelle.nz/open-for-business.html</id>
+
+        <updated>2019-06-24T19:09:02+12:00</updated>
+            <summary>
+                <![CDATA[
+                    We are ready and open for business! Exciting times are coming.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We are ready and open for business!</p>
+<p>Exciting times are coming.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
